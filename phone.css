@@ -1,0 +1,54 @@
+#navbar{
+    flex-direction: column;
+
+}
+#navbar ul li a{
+    font-size: 0.8rem;
+    padding: 0px 7px;
+    padding-bottom: 8px;
+}
+#home{
+    height: 370px;
+    padding: 7px 28px;
+    
+
+}
+#home::before{
+    height: 480px;
+}
+#home p{
+    font-size: 12px;
+}
+#services{
+    flex-direction: column;
+}
+#services .box{
+    padding: -30px;
+    margin: 2px 0px;
+    margin-bottom: 20px;
+    
+}
+#clients{
+    flex-wrap: wrap;
+}
+#clients img{
+    width: 66px;
+    padding: 6px;
+    height: auto;
+}
+#h-primmary{
+    font-size: 26px;
+}
+.btn{
+    font-size: 13px;
+    padding: 4px 8px;
+}
+#contact-box form{
+    width: 80%;
+}
+.btn1{
+    font-size: 13px;
+    padding: 4px 8px;
+    margin: 8px 89px;
+    /* width: 80%; */
+}
